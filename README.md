@@ -3,7 +3,7 @@ This pipeline shows the RNA-seq analysis of the fungus Batrachochytrium dendroba
 
 In UNIX you need to have Kallisto installed first
 ```
-kallisto index -i transcripts.idx transcripts.fasta 
+kallisto index -i transcripts.idx Batde5_best_transcripts.fasta 
 ```
 
 For the analysis of multiple files, if you have the names of the fastq samples in a text filecalled "samples"
