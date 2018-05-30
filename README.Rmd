@@ -18,7 +18,7 @@ done
 If this works, now we move to R for statistical analysis
 
 Loading required libraries
-```
+```R
 library('cowplot')
 library('sleuth')
 
